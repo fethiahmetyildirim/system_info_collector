@@ -24,6 +24,30 @@ The script fetches a list of currently running processes on the system, displayi
 3. Listing Open Files and Folders
 This functionality queries each running process to retrieve a list of files that the process has opened, including documents, executables, and system files. This is useful for understanding which files are currently being accessed on your system.
 
+Sample Outputs
+En son kurulan programlar:
+VLC media player
+WinRAR 7.01 (64-bit)
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+
+Çalışan programlar ve süreleri:
+
+Ad: System Idle Process, PID: 0, Çalışma Süresi: 20024 days, 18:56:02
+Ad: System, PID: 4, Çalışma Süresi: 3 days, 1:19:36
+Ad: , PID: 104, Çalışma Süresi: 3 days, 1:19:39
+Ad: Registry, PID: 168, Çalışma Süresi: 3 days, 1:19:39
+Ad: smss.exe, PID: 612, Çalışma Süresi: 3 days, 1:19:36
+
+Açılan dosyalar ve klasörler:
+
+C:\Program Files\BraveSoftware\Brave-Browser\Application\130.1.71.118\brave_200_percent.pak
+C:\Program Files\BraveSoftware\Brave-Browser\Application\130.1.71.118\Locales\tr.pak
+C:\Windows\Fonts\arialbi.ttf
+C:\Windows\Fonts\seguisbi.ttf
+C:\Windows\Fonts\arialbd.ttf
+
 How to Run
 To run the script, simply execute the Python file in your terminal or IDE: python system_info.py
 
