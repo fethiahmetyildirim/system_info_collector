@@ -38,7 +38,7 @@ En son kurulan programlar:
 
 1. Ad: System Idle Process, PID: 0, Çalışma Süresi: 20024 days, 18:56:02
 2. Ad: System, PID: 4, Çalışma Süresi: 3 days, 1:19:36
-3. Ad: , PID: 104, Çalışma Süresi: 3 days, 1:19:39
+3. Ad: lsass.exe, PID: 1280, Çalışma Süresi: 3 days, 1:19:23
 4. Ad: Registry, PID: 168, Çalışma Süresi: 3 days, 1:19:39
 5. Ad: smss.exe, PID: 612, Çalışma Süresi: 3 days, 1:19:36
 
