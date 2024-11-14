@@ -56,6 +56,7 @@ To run the script, simply execute the Python file in your terminal or IDE: pytho
 Ensure that you have psutil installed, and the script will output the relevant information about installed programs, running processes, and open files.
 
 Notes
-Windows Only: This script is currently designed to work only on Windows operating systems.
-Permissions: Some processes or files may require elevated permissions to access. You may encounter access-related errors for certain system processes or files.
-Psutil Library: psutil is a powerful library for system and process information retrieval. Be aware that querying system processes and files can return a large amount of data.
+
+1. Windows Only: This script is currently designed to work only on Windows operating systems.
+2. Permissions: Some processes or files may require elevated permissions to access. You may encounter access-related errors for certain system processes or files.
+3. Psutil Library: psutil is a powerful library for system and process information retrieval. Be aware that querying system processes and files can return a large amount of data.
