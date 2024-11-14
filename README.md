@@ -29,7 +29,9 @@ Sample Outputs
 En son kurulan programlar:
 
 VLC media player
+
 WinRAR 7.01 (64-bit)
+
 Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
 Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
 Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
