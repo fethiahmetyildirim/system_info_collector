@@ -28,29 +28,27 @@ Sample Outputs
 
 En son kurulan programlar:
 
-VLC media player
-
-WinRAR 7.01 (64-bit)
-
-Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
-Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
-Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+1. VLC media player
+2. WinRAR 7.01 (64-bit)
+3. Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+4. Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+5. Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
 
 Çalışan programlar ve süreleri:
 
-Ad: System Idle Process, PID: 0, Çalışma Süresi: 20024 days, 18:56:02
-Ad: System, PID: 4, Çalışma Süresi: 3 days, 1:19:36
-Ad: , PID: 104, Çalışma Süresi: 3 days, 1:19:39
-Ad: Registry, PID: 168, Çalışma Süresi: 3 days, 1:19:39
-Ad: smss.exe, PID: 612, Çalışma Süresi: 3 days, 1:19:36
+1. Ad: System Idle Process, PID: 0, Çalışma Süresi: 20024 days, 18:56:02
+2. Ad: System, PID: 4, Çalışma Süresi: 3 days, 1:19:36
+3. Ad: , PID: 104, Çalışma Süresi: 3 days, 1:19:39
+4. Ad: Registry, PID: 168, Çalışma Süresi: 3 days, 1:19:39
+5. Ad: smss.exe, PID: 612, Çalışma Süresi: 3 days, 1:19:36
 
 Açılan dosyalar ve klasörler:
 
-C:\Program Files\BraveSoftware\Brave-Browser\Application\130.1.71.118\brave_200_percent.pak
-C:\Program Files\BraveSoftware\Brave-Browser\Application\130.1.71.118\Locales\tr.pak
-C:\Windows\Fonts\arialbi.ttf
-C:\Windows\Fonts\seguisbi.ttf
-C:\Windows\Fonts\arialbd.ttf
+1. C:\Program Files\BraveSoftware\Brave-Browser\Application\130.1.71.118\brave_200_percent.pak
+2. C:\Program Files\BraveSoftware\Brave-Browser\Application\130.1.71.118\Locales\tr.pak
+3. C:\Windows\Fonts\arialbi.ttf
+4. C:\Windows\Fonts\seguisbi.ttf
+5. C:\Windows\Fonts\arialbd.ttf
 
 How to Run
 To run the script, simply execute the Python file in your terminal or IDE: python system_info.py
