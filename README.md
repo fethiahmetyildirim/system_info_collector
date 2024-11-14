@@ -25,7 +25,9 @@ The script fetches a list of currently running processes on the system, displayi
 This functionality queries each running process to retrieve a list of files that the process has opened, including documents, executables, and system files. This is useful for understanding which files are currently being accessed on your system.
 
 Sample Outputs
+
 En son kurulan programlar:
+
 VLC media player
 WinRAR 7.01 (64-bit)
 Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
