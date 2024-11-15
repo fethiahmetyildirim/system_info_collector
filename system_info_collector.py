@@ -1,5 +1,5 @@
 #Sistem ve İşlem Bilgilerine Erişim Sağlamak için Psutil'i Kütüphanesinin İndirilmesi
-!pip install psutil
+pip install psutil
 
 import os
 import subprocess
